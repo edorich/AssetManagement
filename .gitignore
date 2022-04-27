@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/AssetManagement/AssetManagement/bin/Debug/netcoreapp3.1
+/AssetManagement/.vs/AssetManagement
+/AssetManagement/AssetManagement/wwwroot/lib
+/AssetManagement/AssetManagement/obj
